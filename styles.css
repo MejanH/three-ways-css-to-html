@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+  background-color: steelblue;
+  color: white;
+}
+.container {
+  width: fit-content;
+  margin: 200px auto;
+}
